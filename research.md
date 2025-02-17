@@ -29,6 +29,7 @@ layout: page
 	<li><i>Je ne regrette rien? An Empirical Test of Regret Theory and Stock Returns</i>, 2021, jointly with Cédric Müller. [<a href="https://ssrn.com/abstract=3786835">Paper</a>]</li>
 	<li><i>From Chatter to Action: An Index of Sustainability Sentiment</i>, 2021, jointly with Ola Mahmoud. [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3964819">Paper</a>]</li>
 	<li><i>Calibrating doubly-robust estimators with unbalanced treatment assignment</i>, 2024. [<a href="https://arxiv.org/abs/2403.01585">Paper</a>] [<a href="https://github.com/dballinari/Simulation-CU-DML">Code</a>]</li>
+<li><i>Semiparametric inference for impulse response functions using double/debiased machine learning</i>, 2024, jointly with Alexander Wehrli. [<a href="https://arxiv.org/pdf/2411.10009">Paper</a>]
 </ul>
 
 <h2>Projects & Funding</h2>
