@@ -11,16 +11,16 @@ layout: page
 <h2>Publications</h2>
 
 <ul>
-	<li><i>The impact of sentiment and attention measures on stock market volatility</i>, 
-		2020, International Journal of Forecasting, jointly with Francesco Audrino and Fabio Sigrist. [<a href="https://doi.org/10.1016/j.ijforecast.2019.05.010">Paper</a>]</li>
-	<li><i>Structural breaks in online investor sentiment: A note on the nonstationarity of financial chatter</i>,
-		2020,  Finance Research Letters, jointly with Simon Behrendt. [<a href="https://doi.org/10.1016/j.frl.2020.101479">Paper</a>]</li>
-	<li><i>How to Gauge Investor Behavior? A Comparison of Online Investor Sentiment Measures</i>,
-		2021, Digital Finance, jointly with Simon Behrendt. [<a href="https://link.springer.com/article/10.1007/s42521-021-00038-2">Paper</a>]</li>
+	<li><i>Improving the Finite Sample Performance of Double/Debiased Machine Learning with Propensity Score Calibration</i>, Journal of Applied Econometrics, 2026, jointly with Nora Bearth. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jae.70057">Paper</a>] [<a href="https://github.com/dballinari/Improving-the-Finite-Sample-Performance-of-DML-with-Propensity-Score-Calibration">Code</a>]</li>
+	<li><i>Calibrating doubly-robust estimators with unbalanced treatment assignment</i>, 2024, Economics Letters. [<a href="https://doi.org/10.1016/j.econlet.2024.111838">Paper</a>] [<a href="https://github.com/dballinari/Simulation-CU-DML">Code</a>]</li>
 	<li><i>When Does Attention Matter? The Effect of Investor Attention on Stock Market Volatility Around News Releases</i>,
 		2022, International Review of Financial Analysis, jointly with Francesco Audrino and Fabio Sigrist. [<a href="https://doi.org/10.1016/j.irfa.2022.102185">Paper</a>]</li>
-	<li><i>Calibrating doubly-robust estimators with unbalanced treatment assignment</i>, 2024, Economics Letters. [<a href="https://doi.org/10.1016/j.econlet.2024.111838">Paper</a>] [<a href="https://github.com/dballinari/Simulation-CU-DML">Code</a>]</li>
-	<li><i>Improving the Finite Sample Performance of Double/Debiased Machine Learning with Propensity Score Calibration</i>, Journal of Applied Econometrics, 2026, jointly with Nora Bearth. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jae.70057">Paper</a>] [<a href="https://github.com/dballinari/Improving-the-Finite-Sample-Performance-of-DML-with-Propensity-Score-Calibration">Code</a>]</li>
+	<li><i>How to Gauge Investor Behavior? A Comparison of Online Investor Sentiment Measures</i>,
+		2021, Digital Finance, jointly with Simon Behrendt. [<a href="https://link.springer.com/article/10.1007/s42521-021-00038-2">Paper</a>]</li>
+	<li><i>Structural breaks in online investor sentiment: A note on the nonstationarity of financial chatter</i>,
+		2020,  Finance Research Letters, jointly with Simon Behrendt. [<a href="https://doi.org/10.1016/j.frl.2020.101479">Paper</a>]</li>
+	<li><i>The impact of sentiment and attention measures on stock market volatility</i>, 
+		2020, International Journal of Forecasting, jointly with Francesco Audrino and Fabio Sigrist. [<a href="https://doi.org/10.1016/j.ijforecast.2019.05.010">Paper</a>]</li>
 </ul>
 
 <h2>Working papers</h2>
