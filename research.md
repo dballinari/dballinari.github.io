@@ -20,6 +20,7 @@ layout: page
 	<li><i>When Does Attention Matter? The Effect of Investor Attention on Stock Market Volatility Around News Releases</i>,
 		2022, International Review of Financial Analysis, jointly with Francesco Audrino and Fabio Sigrist. [<a href="https://doi.org/10.1016/j.irfa.2022.102185">Paper</a>]</li>
 	<li><i>Calibrating doubly-robust estimators with unbalanced treatment assignment</i>, 2024, Economics Letters. [<a href="https://doi.org/10.1016/j.econlet.2024.111838">Paper</a>] [<a href="https://github.com/dballinari/Simulation-CU-DML">Code</a>]</li>
+	<li><i>Improving the Finite Sample Performance of Double/Debiased Machine Learning with Propensity Score Calibration</i>, Journal of Applied Econometrics, 2026, jointly with Nora Bearth. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jae.70057">Paper</a>] [<a href="https://github.com/dballinari/Improving-the-Finite-Sample-Performance-of-DML-with-Propensity-Score-Calibration">Code</a>]</li>
 </ul>
 
 <h2>Working papers</h2>
@@ -30,7 +31,6 @@ layout: page
 	<li><i>Je ne regrette rien? An Empirical Test of Regret Theory and Stock Returns</i>, 2021, jointly with Cédric Müller. [<a href="https://ssrn.com/abstract=3786835">Paper</a>]</li>
 	<li><i>From Chatter to Action: An Index of Sustainability Sentiment</i>, 2021, jointly with Ola Mahmoud. [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3964819">Paper</a>]</li>
 <li><i>Semiparametric inference for impulse response functions using double/debiased machine learning</i>, 2024, jointly with Alexander Wehrli. [<a href="https://arxiv.org/pdf/2411.10009">Paper</a>]</li>
-	<li><i>Improving the Finite Sample Performance of Double/Debiased Machine Learning with Propensity Score Calibration</i>, 2024, jointly with Nora Bearth. [<a href="https://arxiv.org/abs/2409.04874">Paper</a>] [<a href="https://github.com/dballinari/Improving-the-Finite-Sample-Performance-of-DML-with-Propensity-Score-Calibration">Code</a>]</li>
 <li><i>FX Sentiment Analysis with Large Language Models</i>, 2025, jointly with Jessica Gentner-Maly. [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5406332">Paper</a>] </li>
 </ul>
 
